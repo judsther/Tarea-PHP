@@ -77,3 +77,5 @@ function frecuenciaCaracteres($cadena){
   
   piramideAsteriscos(5);
   
+
+
